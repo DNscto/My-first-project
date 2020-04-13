@@ -1,0 +1,17 @@
+
+
+
+
+  #id {
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+.navLinks {
+  color: white;
+  border-style: solid;
+  border-color: red;
+  border-width: 2px;
+}
